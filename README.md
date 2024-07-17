@@ -1,2 +1,11 @@
-# portifolio
-Meu primeiro portifólio desenvolvido nos cursos de HTML e CSS da Alura.
+# Olá, Bem vindo ao meu projeto de portifólio
+
+## Ferramentas utilizadas:
+* CSS
+* HTML
+* Flex-box
+
+## Feito por:
+
+### Camila Amaral
+
